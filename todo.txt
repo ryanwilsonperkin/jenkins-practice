@@ -1,0 +1,8 @@
+- Test out Configuration As Code plugin
+- Job for deploy create/cancel/rollback
+- Job for env set/list/update/delete
+- Job for buil-param get/set
+- Job for scale get/set
+- Job for non-app-specific task
+- Blue Ocean display: customize grouping of pipelines
+- Blue Ocean display: kick off a pipeline manually, easily
